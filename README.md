@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left"> I'm Ana Karolina from Ceará 🇧🇷<br><br>- 🔭 I’m transitioning career from Software Engineer to Data Engineer<br>- 📚 I'm currently learning Math applied in Data Science.<br>- 👩🏻‍🎓 BsC in Computer Engineering at Instituto Federal de Educação, Ciência e Tecnologia do Ceará.<br>- 👩🏻‍🏫 MsC in Data Science at PUC-Rio (in progress).<br>- ⚡ In my free time I like to listen to music, paint and read!</p>
+<p align="left"> I'm Ana Karolina from Ceará 🇧🇷<br><br>- 🔭 I’m transitioning career from Software Engineer to Data Engineer<br>- 📚 I'm currently learning Math applied in Data Science.<br>- 👩🏻‍🎓 BsC in Computer Engineering at Instituto Federal de Educação, Ciência e Tecnologia do Ceará.<br>- 👩🏻‍🏫 MsC in Data Science at PUC-Rio (in progress).<br>- ⚡ In my free time I like to listen to music, paint and read!<br>- 🍃 I'm a member of PyLadies Fortaleza and Mulher em Dados (community of women in tech). <br></p> 
 
 ###
 
@@ -96,6 +96,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg" height="40" alt="objectivec logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original-wordmark.svg" height="40" alt="apachespark logo"  />
 </div>
 
 ###
